@@ -14,7 +14,7 @@ w='\[\e[1;37m\]'
 M='\033[0m \033[35m'
 PS1="$w\\]╔═══$g\\]($c\\]PlusX HK®Hacking$g\\])-[$w\w\\]$g\\]]\n$w\\]║$w\\]\n╚═$c\\]•>> $w\\]"
 clear
-toilet -f standard Hackering -F gay
+toilet -f standard Hacking -F gay
 cd
 
 
